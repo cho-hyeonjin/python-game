@@ -8,7 +8,7 @@ adjective2 = input("꾸미는 말2: ")
 adjective3 = input("꾸미는 말3: ")
 noun2Name = input("명사2의 이름:")
 adjective4 = input("꾸미는 말4: ")
-emotion1 = input("감정: ")
+emotion1 = input("감정1: ")
 emotion2 = input("감정2: ")
 
 
